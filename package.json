@@ -1,5 +1,5 @@
 {
-  "name": "express-vercel",
+  "name": "josh-express-app",
   "version": "1.0.0",
   "description": "Deploy express js to vercel.",
   "main": "index.js",
