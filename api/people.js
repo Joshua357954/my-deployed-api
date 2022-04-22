@@ -9,7 +9,7 @@ router.get('/',(req,res)=>{
 		Welcome to My Varcel Api ..</h1>")
 	res.send()
 
-	return res.status(500).send("Server error");
+	// return res.status(500).send("Server error");
 })
 
 module.exports=router
